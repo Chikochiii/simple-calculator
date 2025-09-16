@@ -84,4 +84,4 @@ No specific license for this project. This project is open-source and free to us
 ## Message✉️
 Please click the ⭐ (`star`) button if you like this project — it motivates me to create more projects 👉👈
 
-<img src="src/pwissss.png" alt="Light Mode" width="200">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/Fbsw7bwC/pwissss.webp" alt="pwissss" border="0" width="200"></a>
